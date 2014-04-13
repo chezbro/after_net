@@ -43,3 +43,24 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'bundler'
+
+gem 'acts_as_votable'
+
+gem 'devise', github: 'plataformatec/devise'
+
+gem 'omniauth'
+
+gem 'omniauth-facebook'
+
+gem 'bootstrap-sass', github: 'twbs/bootstrap-sass'
+
+gem 'bootstrap-sass-extras'
+
+gem 'better_errors', group: :development
+
+gem 'binding_of_caller'
+
+gem 'google-analytics-rails'
+
+gem 'validates_formatting_of'
